@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SKYMAP: Physics Informed Gaussian Process Radio Maps for Risk Aware UAV Trajectory Planning"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+repository-code: "https://github.com/GArulDalton/skymap-uav-radio-maps"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-23

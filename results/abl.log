@@ -1,0 +1,10 @@
+abl 1 {'Full': 2.23, 'w/o antenna prior': 2.36, 'w/o multi-cell': 2.25, 'w/o LoS-heteroscedastic': 2.39, 'w/o all three': 2.45}
+mis 1 {'PR-Kriging': 3.5707900033331126, 'SKYMAP': 3.707663282402148, 'hyper': {'l_h': 45.41477146329004, 'l_v': 33.94877319185853, 'rho': -0.005374208590884131, 'sigma_L': 8.838875701312153, 'kappa': 0.06382950578524284, 'sigma_N': 8.650552457226382, 'sigma_n': 0.3}, 'PINF': 5.424645162636946}
+abl 2 {'Full': 1.85, 'w/o antenna prior': 1.96, 'w/o multi-cell': 1.91, 'w/o LoS-heteroscedastic': 1.93, 'w/o all three': 2.04}
+mis 2 {'PR-Kriging': 3.553163000228837, 'SKYMAP': 3.614517148606306, 'hyper': {'l_h': 53.037464939754265, 'l_v': 34.53259937495207, 'rho': 0.04554743074206596, 'sigma_L': 8.764686424628481, 'kappa': 0.05999181571685313, 'sigma_N': 8.774711346299874, 'sigma_n': 0.8380504426674412}, 'PINF': 5.292623359922838}
+abl 3 {'Full': 2.06, 'w/o antenna prior': 2.17, 'w/o multi-cell': 2.08, 'w/o LoS-heteroscedastic': 2.21, 'w/o all three': 2.22}
+mis 3 {'PR-Kriging': 3.689331214924176, 'SKYMAP': 3.7054287470052474, 'hyper': {'l_h': 51.63783652705254, 'l_v': 30.38218359579467, 'rho': 0.06834270884570884, 'sigma_L': 8.982522723795016, 'kappa': 0.08145825509353669, 'sigma_N': 8.809971233508, 'sigma_n': 0.3}, 'PINF': 5.463419219721859}
+abl 4 {'Full': 2.1, 'w/o antenna prior': 2.24, 'w/o multi-cell': 2.13, 'w/o LoS-heteroscedastic': 2.23, 'w/o all three': 2.3}
+mis 4 {'PR-Kriging': 3.9540315572599116, 'SKYMAP': 4.031713091418548, 'hyper': {'l_h': 49.13583258330827, 'l_v': 30.22894351668394, 'rho': 0.05347788329582226, 'sigma_L': 8.706322766700888, 'kappa': 0.05272919530443403, 'sigma_N': 8.586949583585682, 'sigma_n': 1.2966506166809701}, 'PINF': 5.619233657957286}
+abl 5 {'Full': 1.93, 'w/o antenna prior': 2.02, 'w/o multi-cell': 1.96, 'w/o LoS-heteroscedastic': 2.05, 'w/o all three': 2.11}
+mis 5 {'PR-Kriging': 3.5875099309690386, 'SKYMAP': 3.620929691407284, 'hyper': {'l_h': 54.14961660947738, 'l_v': 32.59047118710181, 'rho': -0.026444733511021116, 'sigma_L': 8.439277799301625, 'kappa': 0.0, 'sigma_N': 9.38294577436534, 'sigma_n': 0.7471368449017465}, 'PINF': 5.334422178266707}
